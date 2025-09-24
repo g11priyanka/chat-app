@@ -1,27 +1,3 @@
-<p align='center'>
-<img src='./client/src/assets/logo.svg'  width='25%'>
-</p>
-<p align='center'>
-<b>WhatsApp clone build using MERN stack</b>
-</p>
-<p align='center'>
-<a href='https://tomper-chat.onrender.com/' target='_blank'>tomper-chat.onrender.com</a> (cloud-based)
-<br/>
-<a href='https://tc.varuntiwari.com' target='_blank'>tc.varuntiwari.com</a> (self-hosted)
-</p>
-
----
-
-<p align='center'>
-This is the frontend + backend of TomperChat build with MERN stack and hosted with <a href='https://www.render.com/' target='_blank'>Render</a>
-</p>
-<p align='center'>
-<img src='./assets/dp1.PNG' >
-<br>
-<br>
-<img src='./assets/dp2.PNG' >
-</p>
-
 #### 🧾 Description
 
 TomperChat is a clone of WhatsApp. Its build using MERN stack and uses <a href='https://socket.io/'>socket.io</a> for realtime messaging, online statuses, typing indicators, notifications etc.
@@ -132,7 +108,4 @@ TomperChat is a clone of WhatsApp. Its build using MERN stack and uses <a href='
 <br>
 <br>
 
-<p align='center'>
-(If you liked the project, give it star 😃)
-</p>
-"# MERN Chat App" 
+
